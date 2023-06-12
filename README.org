@@ -1,0 +1,9 @@
+* net-telent-date
+
+Date and time parsing and formatting library.
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/eugeneia/net-telent-date.git |
+| commit  | 29e3428                                             |
+| systems | net-telent-date                                     |
+|---------+-----------------------------------------------------|
